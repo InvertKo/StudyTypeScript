@@ -4,8 +4,11 @@
   "description": "",
   "main": "test.js",
   "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
     "jquery": "^3.5.1",
     "puppeteer": "^3.0.4",
+    "serverless": "^1.71.3",
     "typescript": "^3.8.3"
   },
   "devDependencies": {},
