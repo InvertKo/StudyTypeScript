@@ -10,7 +10,7 @@ export default{
   name:'Hello Vue js',
   data:()=>{
     return{
-      message:'안녕.<span style="color:red">Vue</span>'
+      message:'<span style="color:red">Vue</span>'
     };
   },
 };
