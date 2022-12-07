@@ -9,7 +9,7 @@
     "g": "^2.0.1",
     "jquery": "^3.5.1",
     "puppeteer": "^3.0.4",
-    "serverless": "^1.71.3",
+    "serverless": "^3.25.1",
     "typescript": "^3.8.3"
   },
   "devDependencies": {},
